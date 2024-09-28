@@ -1,10 +1,5 @@
 
-
----
-
-# README - Hameed Gul
-
-## 📊 Data Scientist | Hameed Gul
+## Hameed Gul | 📊 Data Scientist
 
 Hello! I'm Hameed Gul, a passionate Data Scientist specializing in data analysis, machine learning, and data-driven decision-making. I have a strong background in turning complex datasets into actionable insights and building predictive models that solve real-world problems.
 
@@ -12,7 +7,7 @@ Hello! I'm Hameed Gul, a passionate Data Scientist specializing in data analysis
 
 ## 🚀 Skills and Expertise
 
-- **Programming Languages**: Python, R, SQL
+- **Programming Languages**: Python, SQL
 - **Data Analysis & Visualization**: Pandas, NumPy, Matplotlib, Seaborn, Plotly
 - **Machine Learning**: Scikit-Learn, TensorFlow, PyTorch
 - **Data Wrangling**: Data Cleaning, Preprocessing, Feature Engineering
@@ -62,38 +57,11 @@ For a complete list of my projects, please visit my [GitHub](https://github.com/
 
 ---
 
-## 🛠️ How to Use My Projects
-
-1. **Clone the repository**:
-    ```bash
-    git clone https://github.com/your-github-username/your-repository-name.git
-    ```
-2. **Navigate to the project folder**:
-    ```bash
-    cd your-repository-name
-    ```
-3. **Install dependencies**:
-    ```bash
-    pip install -r requirements.txt
-    ```
-4. **Run the project** as per the specific project instructions available in the respective project folder.
-
----
-
 ## 🤝 Connect with Me
 
 - **LinkedIn**: [Hameed Gul](https://www.linkedin.com/in/your-linkedin-username)
 - **GitHub**: [GitHub Profile](https://github.com/your-github-username)
 - **Email**: your-email@example.com
-
----
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ---
 
 Thank you for visiting my profile and exploring my work! If you have any questions or want to collaborate, feel free to reach out.
-
---- 
